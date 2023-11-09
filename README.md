@@ -29,8 +29,8 @@ As the application server market matures, high performance becomes a stronger cr
 
 ## OUTPUT 
  
-![image](/exp8-iot-1.jpg)
-![image](/exp8-iot-2.jpg)
+![image](/exp8_iot-1.jpg)
+![image](/exp8_iot-2.jpg)
 
 ## Results: 
 
